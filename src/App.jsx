@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Search from "./components/Search";
 import { KUIT_WEB } from "./data";
 import Card from "./components/Card";
